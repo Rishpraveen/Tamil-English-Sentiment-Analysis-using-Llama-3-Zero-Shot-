@@ -283,7 +283,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📈 Roadmap
 
-- [ ] Support for more Indian languages
+- [ ] Support for more Indian languages .. [ telugu is ready ](https://github.com/Rishpraveen/Telugu_youtube_sentiment_analysis)
 - [ ] Real-time sentiment monitoring
 - [ ] Advanced emotion detection
 - [ ] Web interface development
